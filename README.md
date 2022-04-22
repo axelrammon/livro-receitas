@@ -1,3 +1,5 @@
 ## Livro de receitas :man_cook:
 
-### Primeiro teste
+- ### Strogonoff de frango :chicken:
+
+- ### Pavê
